@@ -22,8 +22,7 @@ Top 10 leagues behind the new 167 Premier League signings in the 2025–26 summe
 
 
 
-<img width="1968" height="1128" alt="Premier League transfers github" src="https://github.com/user-attachments/assets/9ffcf285-97ff-48dc-9992-d124234ee502" />
-
+<img width="1968" height="1128" alt="Premier League transfers github" src="https://github.com/user-attachments/assets/4becc068-4611-4631-8044-abc2ae1819b9" />
 
 
 </p>
