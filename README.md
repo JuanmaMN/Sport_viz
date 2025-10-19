@@ -1,8 +1,6 @@
 
 # Sport
 
-This
-
 This repository provides different an overview of the different sports visualisation I've done.
 
 Code has been uploaded to the different folders.
