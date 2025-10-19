@@ -3,7 +3,7 @@
 
 This repository provides different an overview of the different sports visualisation I've done.
 
-Code has been uploaded to the different folders.
+Code available on request.
 
 Feedback is welcome and appreciated. Please feel free to follow me on [Twitter](https://twitter.com/Juanma_MN).
 
