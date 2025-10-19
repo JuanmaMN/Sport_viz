@@ -33,4 +33,10 @@ Top 10 leagues behind the new 167 Premier League signings in the 2025–26 summe
 
 <br>
 
+## FIFA World Cup 2022
 
+
+
+<br>
+
+<img width="1968" height="1128" alt="World cup github" src="https://github.com/user-attachments/assets/9684e76c-8ec7-41ca-9782-e64a8581327a" />
